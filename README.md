@@ -1,4 +1,4 @@
-## 🎥 reelsuggest - Movie Recommendation System
+# 🎥 reelsuggest - Movie Recommendation System
 
 The **reelsuggest - Movie Recommendation System** is a **content-based recommendation engine** that suggests movies similar to a given title using **TF-IDF vectorization** and cosine similarity.
 It processes movie metadata, performs exploratory data analysis, and serves recommendations via a **Flask web application** and a standalone Python prediction script.
