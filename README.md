@@ -92,8 +92,6 @@ python predict.py
 "Discover the next movie you’ll love – let similarity be your guide." 🍿
 
 <img width="813" height="446" alt="image" src="https://github.com/user-attachments/assets/90147c35-7e35-47a7-8992-89ae74e0d52f" />
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/83de1a31-7d6f-45fe-aad7-53ae155454c4" />
-<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/0e828295-0f5e-4bf7-8e8d-92cd1e1b76b6" />
 <img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/db731681-329d-4b80-8697-b0b846ae189a" />
 <img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/919bcb35-56f9-4183-b705-4ed6fdf90ba4" />
 <img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/5c6564d3-e16f-477e-8f4b-11104cbcffe1" />
